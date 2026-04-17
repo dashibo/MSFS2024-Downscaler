@@ -1,4 +1,4 @@
-# MSFS DOWNSCALER by kobi v1.0
+# MSFS 2024 DOWNSCALER by kobi v1.0
 
 ### Reduce VRAM usage and improve performance in MSFS 2024 by batch-optimizing your textures.
 
