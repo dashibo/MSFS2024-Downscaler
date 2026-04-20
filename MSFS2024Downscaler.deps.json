@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "MSFS2024Downscaler/1.0.0.0": {
+      "MSFS2024Downscaler/1.1.0.0": {
         "dependencies": {
           "CommunityToolkit.Mvvm": "8.4.2",
           "Newtonsoft.Json": "13.0.4",
@@ -43,7 +43,7 @@
     }
   },
   "libraries": {
-    "MSFS2024Downscaler/1.0.0.0": {
+    "MSFS2024Downscaler/1.1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
